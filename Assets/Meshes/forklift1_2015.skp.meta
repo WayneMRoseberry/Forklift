@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: bc1f275fa0c96d64a9e93620e4d458e5
+timeCreated: 1486419163
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: abee499d1d1e51607d8110c95d5fce99
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -5.8292837, y: 0.78490394, z: 2.4625587}
+      lookAt: {x: -0.023165729, y: 0.327885, z: 0.29609457}
+      up: {x: 0.06890637, y: 0.99729174, z: -0.025711358}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 85.674164
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 3
+    100006: TireAndWheel
+    100008: TireAndWheel 1
+    100010: TireAndWheel 2
+    100012: TireAndWheel 3
+    100014: Group 5
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 3
+    400006: TireAndWheel
+    400008: TireAndWheel 1
+    400010: TireAndWheel 2
+    400012: TireAndWheel 3
+    400014: Group 5
+    2300000: Group 1
+    2300002: Group 3
+    2300004: TireAndWheel
+    2300006: TireAndWheel 1
+    2300008: TireAndWheel 2
+    2300010: TireAndWheel 3
+    2300012: Group 5
+    3300000: Group 1
+    3300002: Group 3
+    3300004: TireAndWheel
+    3300006: TireAndWheel 1
+    3300008: TireAndWheel 2
+    3300010: TireAndWheel 3
+    3300012: Group 5
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh TireAndWheel
+    4300006: Mesh Group 5
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
